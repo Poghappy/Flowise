@@ -61,7 +61,7 @@
         "react-rewards": "^2.1.0",
         "react-router": "~6.3.0",
         "react-router-dom": "~6.3.0",
-        "react-syntax-highlighter": "^15.5.0",
+        "react-syntax-highlighter": "^16.0.0",
         "reactflow": "^11.5.6",
         "recharts": "^2.12.6",
         "redux": "^4.0.5",
