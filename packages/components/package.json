@@ -114,7 +114,7 @@
         "langwatch": "^0.1.1",
         "linkifyjs": "^4.3.2",
         "llamaindex": "^0.3.13",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "lunary": "^0.7.12",
         "mammoth": "^1.5.1",
         "meilisearch": "^0.41.0",
